@@ -1,0 +1,14 @@
+h1,
+h3 {
+    color: pink;
+}
+
+body {
+    background-color: aqua;
+}
+
+ol,
+ul {
+    background-color: rgb(86, 216, 172);
+    color: white;
+}
